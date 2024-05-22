@@ -28,7 +28,7 @@
     <scm>
         <connection>scm:git:git://github.com/hadielmougy/expiringmap.git</connection>
         <developerConnection>scm:git:ssh://github.com:hadielmougy/expiringmap.git</developerConnection>
-        <url>http://github.com/hadielmougy/shield/tree/master</url>
+        <url>http://github.com/hadielmougy/expiringmap/tree/master</url>
     </scm>
 
     <properties>
